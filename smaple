@@ -3,7 +3,7 @@
 <body>
 
 <div ng-app="myApp" ng-controller="myCtrl">
-    <p ng-bind="firstname">23423342234234234234234</p>
+    <p ng-bind="firstname">2342343342234234234234234</p>
 </div>
 
 </body>
