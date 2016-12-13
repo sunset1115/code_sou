@@ -1,0 +1,10 @@
+<html>
+<script src="angular.min.js"></script>
+<body>
+
+<div ng-app="myApp" ng-controller="myCtrl">
+    <p ng-bind="firstname">23423342234234234234234</p>
+</div>
+
+</body>
+</html>
